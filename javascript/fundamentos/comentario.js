@@ -1,5 +1,5 @@
 // Tipos de comentários no Javascript e conceitos
-console.log('Primeiro Tipo')
+console.log('Primeiro Tipo');
 
 /*
     1 - Evite comentários óbvios.
@@ -9,7 +9,7 @@ console.log('Primeiro Tipo')
         Porém enquanto estuda tente sempre comentar o código que está fazendo até mesmo para saber exprimir
         em palavras o que seu código está fazendo, é uma boa forma de fixar o conhecimento.
 */
-console.log('Segundo Tipo')
+console.log('Segundo Tipo');
 
 /*
  * Esse coméntário é apenas para mostrar
@@ -17,4 +17,4 @@ console.log('Segundo Tipo')
  * os asteriscos são completados pela IDE VSCode 
  * ficando mais elegante a apresentação
  */
-console.log('Terceiro Tipo')
+console.log('Terceiro Tipo');
