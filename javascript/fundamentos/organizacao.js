@@ -6,4 +6,4 @@ console.log(                    // 1ª
         console.log("Olá");     // 2ª Sentença do código
         console.log('Mundo!')   // 3ª Sentença do código
     }
-}
+} 
