@@ -1,5 +1,5 @@
 // Tipos de comentários no Javascript e conceitos
-console.log('Primeiro Tipo');
+console.log('Primeiro Tipo'); 
 
 /*
     1 - Evite comentários óbvios.
