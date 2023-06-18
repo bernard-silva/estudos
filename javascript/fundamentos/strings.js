@@ -19,3 +19,4 @@ console.log('Ana, Maria, Pedro'.split(','))         // split separa a string nos
                                                     // e retorno o array [ 'Ana', ' Maria', ' Pedro' ]
 console.log('Ana, Maria, Pedro'.split(/,/))         // usando regex, mesmo retorno
 
+
