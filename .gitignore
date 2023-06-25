@@ -1,1 +1,6 @@
+# O arquivo não pode existir para que ele possa ser ignorado.
+# O arquivo .gitignore deve ser adicionado antes do git add <arquivo>. Se o arquivo já estiver em stage, 
+# deve ser removido antes do commit. Se estiver no Github, deve remover os arquivos com git rm -r --cached <arquivo>, 
+# fazer o commit, adicionar o .gitignore e fazer o commit. Depois disso, os arquivos não serão mais adicionados.
+
 javascript/node/profEdsonMaia/node_modules
